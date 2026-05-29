@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated_at": "2026-05-29T12:38:43.434Z",
+  "updated_at": "2026-05-29T14:16:28.778Z",
   "row_count": 22,
   "items": [
     {
@@ -211,7 +211,7 @@
       "commodity": "Mumbai Rainfall",
       "expiry": "29-Jun-2026",
       "ltp": "2,152.00",
-      "bid": "2099 2119 2199",
+      "bid": "2099 2120 2199",
       "ask": "-",
       "open": "0.00",
       "high": "-",
@@ -223,11 +223,11 @@
       "commodity": "Mumbai Rainfall",
       "expiry": "30-Jul-2026",
       "ltp": "2,120.00",
-      "bid": "2101 2118 2155",
+      "bid": "2101 2112 2155",
       "ask": "-",
       "open": "0.00",
       "high": "-",
-      "low": "2,125.92",
+      "low": "2,125.24",
       "close": "2,206.70",
       "change": "May 29 2026 | 08:30 AM"
     },
@@ -235,11 +235,11 @@
       "commodity": "Mumbai Rainfall",
       "expiry": "29-Sep-2026",
       "ltp": "2,102.00",
-      "bid": "2097 2102 2121",
+      "bid": "2097 2103 2121",
       "ask": "-",
       "open": "0.00",
       "high": "-",
-      "low": "2,110.26",
+      "low": "2,109.90",
       "close": "2,206.70",
       "change": "May 29 2026 | 08:30 AM"
     },
