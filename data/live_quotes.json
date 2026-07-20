@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated_at": "2026-07-20T12:07:49.656Z",
+  "updated_at": "2026-07-20T13:16:23.611Z",
   "row_count": 26,
   "items": [
     {
@@ -12,8 +12,8 @@
       "open": "-13.00",
       "high": "-0.18",
       "low": "7,207.50",
-      "close": "7,188.35",
-      "change": "Jul 20 2026 | 11:57 AM"
+      "close": "7,191.20",
+      "change": "Jul 20 2026 | 03:07 PM"
     },
     {
       "commodity": "Castor Seed",
@@ -24,8 +24,8 @@
       "open": "-57.00",
       "high": "-0.79",
       "low": "7,226.25",
-      "close": "7,188.35",
-      "change": "Jul 20 2026 | 11:57 AM"
+      "close": "7,191.20",
+      "change": "Jul 20 2026 | 03:07 PM"
     },
     {
       "commodity": "Castor Seed",
@@ -36,8 +36,8 @@
       "open": "-71.00",
       "high": "-0.97",
       "low": "7,301.94",
-      "close": "7,188.35",
-      "change": "Jul 20 2026 | 11:57 AM"
+      "close": "7,191.20",
+      "change": "Jul 20 2026 | 03:07 PM"
     },
     {
       "commodity": "Cotton Seed Oilcake",
@@ -48,8 +48,8 @@
       "open": "109.00",
       "high": "3.11",
       "low": "3,577.20",
-      "close": "3,957.90",
-      "change": "Jul 20 2026 | 11:50 AM"
+      "close": "3,967.00",
+      "change": "Jul 20 2026 | 03:27 PM"
     },
     {
       "commodity": "Cotton Seed Oilcake",
@@ -60,8 +60,8 @@
       "open": "55.00",
       "high": "1.45",
       "low": "3,840.50",
-      "close": "3,957.90",
-      "change": "Jul 20 2026 | 11:50 AM"
+      "close": "3,967.00",
+      "change": "Jul 20 2026 | 03:27 PM"
     },
     {
       "commodity": "Cotton Seed Oilcake",
@@ -72,8 +72,8 @@
       "open": "4.00",
       "high": "0.11",
       "low": "3,709.96",
-      "close": "3,957.90",
-      "change": "Jul 20 2026 | 11:50 AM"
+      "close": "3,967.00",
+      "change": "Jul 20 2026 | 03:27 PM"
     },
     {
       "commodity": "Cotton Seed Oilcake",
@@ -84,8 +84,8 @@
       "open": "10.00",
       "high": "0.30",
       "low": "3,323.00",
-      "close": "3,957.90",
-      "change": "Jul 20 2026 | 11:50 AM"
+      "close": "3,967.00",
+      "change": "Jul 20 2026 | 03:27 PM"
     },
     {
       "commodity": "Dhaniya",
@@ -132,8 +132,8 @@
       "open": "-148.00",
       "high": "-1.22",
       "low": "11,997.70",
-      "close": "11,950.60",
-      "change": "Jul 20 2026 | 12:23 PM"
+      "close": "11,921.95",
+      "change": "Jul 20 2026 | 03:26 PM"
     },
     {
       "commodity": "Guar Gum",
@@ -144,8 +144,8 @@
       "open": "-175.00",
       "high": "-1.42",
       "low": "12,172.20",
-      "close": "11,950.60",
-      "change": "Jul 20 2026 | 12:23 PM"
+      "close": "11,921.95",
+      "change": "Jul 20 2026 | 03:26 PM"
     },
     {
       "commodity": "Guar seed",
@@ -156,8 +156,8 @@
       "open": "172.00",
       "high": "2.86",
       "low": "6,190.00",
-      "close": "6,103.25",
-      "change": "Jul 20 2026 | 12:23 PM"
+      "close": "6,103.10",
+      "change": "Jul 20 2026 | 03:26 PM"
     },
     {
       "commodity": "Guar seed",
@@ -168,8 +168,8 @@
       "open": "-45.00",
       "high": "-0.73",
       "low": "6,167.94",
-      "close": "6,103.25",
-      "change": "Jul 20 2026 | 12:23 PM"
+      "close": "6,103.10",
+      "change": "Jul 20 2026 | 03:26 PM"
     },
     {
       "commodity": "Guar seed",
@@ -180,8 +180,8 @@
       "open": "-39.00",
       "high": "-0.62",
       "low": "6,258.87",
-      "close": "6,103.25",
-      "change": "Jul 20 2026 | 12:23 PM"
+      "close": "6,103.10",
+      "change": "Jul 20 2026 | 03:26 PM"
     },
     {
       "commodity": "Jeera",
@@ -192,8 +192,8 @@
       "open": "415.00",
       "high": "2.01",
       "low": "21,136.70",
-      "close": "20,956.95",
-      "change": "Jul 20 2026 | 11:24 AM"
+      "close": "20,895.90",
+      "change": "Jul 20 2026 | 03:09 PM"
     },
     {
       "commodity": "Jeera",
@@ -204,8 +204,8 @@
       "open": "240.00",
       "high": "1.14",
       "low": "21,152.00",
-      "close": "20,956.95",
-      "change": "Jul 20 2026 | 11:24 AM"
+      "close": "20,895.90",
+      "change": "Jul 20 2026 | 03:09 PM"
     },
     {
       "commodity": "Jeera",
@@ -216,17 +216,17 @@
       "open": "255.00",
       "high": "1.20",
       "low": "21,477.20",
-      "close": "20,956.95",
-      "change": "Jul 20 2026 | 11:24 AM"
+      "close": "20,895.90",
+      "change": "Jul 20 2026 | 03:09 PM"
     },
     {
       "commodity": "Mumbai Rainfall",
       "expiry": "30-Jul-2026",
       "ltp": "2,676.00",
-      "bid": "2635 2689 2700",
+      "bid": "2635 2694 2700",
       "ask": "2,639.00",
-      "open": "50.00",
-      "high": "1.89",
+      "open": "55.00",
+      "high": "2.08",
       "low": "2,676.16",
       "close": "2,675.85",
       "change": "Jul 20 2026 | 09:00 AM"
@@ -235,10 +235,10 @@
       "commodity": "Mumbai Rainfall",
       "expiry": "28-Aug-2026",
       "ltp": "2,482.00",
-      "bid": "2482 2562 2566",
+      "bid": "2482 2564 2566",
       "ask": "2,466.00",
-      "open": "96.00",
-      "high": "3.89",
+      "open": "98.00",
+      "high": "3.97",
       "low": "2,531.78",
       "close": "2,675.85",
       "change": "Jul 20 2026 | 09:00 AM"
@@ -247,10 +247,10 @@
       "commodity": "Mumbai Rainfall",
       "expiry": "29-Sep-2026",
       "ltp": "2,360.00",
-      "bid": "2360 2421 2422",
+      "bid": "2360 2420 2422",
       "ask": "2,344.00",
-      "open": "77.00",
-      "high": "3.28",
+      "open": "76.00",
+      "high": "3.24",
       "low": "2,393.32",
       "close": "2,675.85",
       "change": "Jul 20 2026 | 09:00 AM"
